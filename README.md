@@ -1,3 +1,9 @@
+<div align="center">
+
+<h2>Complex Instruction Following (IF) for Deep Analysis built by Tongyi Lab, Alibaba Group <img src="./figs/tongyi.png" width="30px" style="display:inline;"></h2>
+
+</div>
+
 # IOPO: Empowering LLMs with Complex Instruction Following via Input-Output Preference Optimization
  
 ## Abstract
@@ -30,3 +36,30 @@ cd Eval_script/
 bash evaluate_all_task_for_model.sh <eval_results_output_path> "models/vllm_qwen2_7b_trace_iopo.yaml" "config/evaluator-trace-gpt-gpt.yaml"
 ```
 
+## License
+
+The content of this project itself is licensed under [LICENSE](LICENSE).
+
+## Citation
+
+If this work is helpful, please kindly cite as:
+
+```bigquery
+@inproceedings{zhang-etal-2025-iopo,
+    title = "IOPO: Empowering LLMs with Complex Instruction Following via Input-Output Preference Optimization",
+    author = "Xinghua Zhang, Haiyang Yu, Cheng Fu, Fei Huang, Yongbin Li",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)",
+    month = July,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics"
+}
+```
+
+## ✨Star History
+
+<div align="center">
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Tongyi-CCAI/Complex-IF&type=Date)](https://www.star-history.com/#Tongyi-CCAI/Complex-IF&Date)
+
+</div>
