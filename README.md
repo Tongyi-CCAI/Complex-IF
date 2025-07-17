@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>Complex Instruction Following (IF) for Deep Analysis built by Tongyi Lab, Alibaba Group <img src="./figs/tongyi.png" width="30px" style="display:inline;"></h2>
+<h2>Complex IF for Deep Analysis built by Tongyi Lab, Alibaba Group <img src="./figs/tongyi.png" width="30px" style="display:inline;"></h2>
 
 </div>
 
