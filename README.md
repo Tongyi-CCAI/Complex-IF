@@ -63,7 +63,7 @@ bash evaluate_all_task_for_model.sh <eval_results_output_path> \
 
 ## 📄 License
 
-The content of this project is licensed under the [LICENSE](LICENSE).  
+The content of this project is licensed under the [LICENSE](LICENSE.txt).  
 
 ## 💬 Citation
 
