@@ -2,7 +2,7 @@
 
 # **Complex Instruction Following (IF) for Deep Analysis**  
 
-### Built by Tongyi Lab, Alibaba Group <img src="./figs/tongyi.png" width="50px" style="margin-top:10px;">
+### Built by Tongyi Lab, Alibaba Group <img src="./figs/tongyi.png" width="20px" style="margin-top:10px;">
 
 </div>
 
@@ -70,15 +70,6 @@ The content of this project is licensed under the [LICENSE](LICENSE).
 If this work is helpful, please cite as:
 
 ```bibtex
-@misc{zou2025eifbenchextremelycomplexinstruction,
-      title={EIFBENCH: Extremely Complex Instruction Following Benchmark for Large Language Models}, 
-      author={Tao Zou and Xinghua Zhang and Haiyang Yu and Minzheng Wang and Fei Huang and Yongbin Li},
-      year={2025},
-      eprint={2506.08375},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2506.08375}, 
-}
 @inproceedings{zhang-etal-2025-iopo,
     title = "IOPO: Empowering LLMs with Complex Instruction Following via Input-Output Preference Optimization",
     author = "Xinghua Zhang, Haiyang Yu, Cheng Fu, Fei Huang, Yongbin Li",
@@ -87,6 +78,15 @@ If this work is helpful, please cite as:
     year = "2025",
     address = "Vienna, Austria",
     publisher = "Association for Computational Linguistics"
+}
+@misc{zou2025eifbenchextremelycomplexinstruction,
+      title={EIFBENCH: Extremely Complex Instruction Following Benchmark for Large Language Models}, 
+      author={Tao Zou and Xinghua Zhang and Haiyang Yu and Minzheng Wang and Fei Huang and Yongbin Li},
+      year={2025},
+      eprint={2506.08375},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2506.08375}, 
 }
 ```
 
