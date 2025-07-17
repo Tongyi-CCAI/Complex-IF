@@ -1,50 +1,23 @@
-感谢您的提醒！下面是经过进一步精简和优化的版本，去掉了一些多余的图标，同时确保仍然保持视觉吸引力和简洁性。
-
----
-
 <div align="center">
-
 # **Complex Instruction Following (IF) for Deep Analysis**  
-### Built by Tongyi Lab, Alibaba Group  
-
-<img src="./figs/tongyi.png" width="50px" style="margin-top:10px;">
-
----
-
-**IOPO: Empowering LLMs with Complex Instruction Following via Input-Output Preference Optimization**
-
+### Built by Tongyi Lab, Alibaba Group <img src="./figs/tongyi.png" width="50px" style="margin-top:10px;">
 </div>
 
 ---
+> In the realm of large language models (LLMs), the ability of models to accurately follow instructions is paramount as more agents and applications leverage LLMs, where the complexity of instructions is rapidly increasing.
 
-## 📜 Abstract
-In the realm of large language models (LLMs), the ability of models to accurately follow instructions is paramount as more agents and applications leverage LLMs, where the complexity of instructions is rapidly increasing. 
+- [**TRACE&IOPO**](TRACE&IOPO) (ACL 2025) - [IOPO: Empowering LLMs with Complex Instruction Following via Input-Output Preference Optimization](https://arxiv.org/pdf/2411.06208)
+- [**EIFBench&SegPO**](EIFBench&SegPO) (Preprint 2025) - [EIFBENCH: Extremely Complex Instruction Following Benchmark for Large Language Models](https://arxiv.org/pdf/2506.08375)
 
-However:  
-- There’s limited complex instruction evaluation data.  
-- Few algorithms are tailored to improve these abilities.
+## 📜 News and Updates
 
-This paper introduces:  
-1. **TRACE**, a benchmark for evaluating and improving complex instruction-following, containing **120K training data** and **1K evaluation data**.  
-2. **IOPO** (**Input-Output Preference Optimization**), a method that:  
-   - Rapidly aligns responses with user preferences.  
-   - Explores instructional requirements thoroughly.
-
-### **Key Results**
-- In **in-domain datasets**:  
-  **+8.15%** (vs SFT), **+2.18%** (vs DPO).  
-- In **out-of-domain datasets**:  
-  **+6.29%** (vs SFT), **+3.13%** (vs DPO).  
+- `2025.06.10` We release **EIFBench&SegPO** at [Arxiv](https://arxiv.org/pdf/2506.08375), an extremely complex instruction following benchmark and online RL algorithm for evaluating and training LLMs.
+- `2025.05.16` **TRACE&IOPO** is accepted by ACL 2025 main conference.
+- `2024.11.24` We release **TRACE&IOPO** at [DAMO-ConvAI](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/IOPO), a complex instruction following benchmark and offline RL algorithm for evaluating and training LLMs.
 
 ---
-
-<div align="center">
-
 ## 🔬 Comparison Results  
 <img src="figs/intro.png" width="500" alt="Comparison Chart">
-
-</div>
-
 ---
 
 ## 📊 TRACE Benchmark
@@ -55,12 +28,7 @@ This paper introduces:
 - Minimum: **1**, Maximum: **15**  
 - Average: **4.36** (training), **4.89** (evaluation)  
 
-<div align="center">
-
 <img src="figs/trace_test_constraint_type.png" width="400" alt="TRACE Benchmark Statistics">
-
-</div>
-
 ---
 
 ## ⚙ How to Run
@@ -104,8 +72,6 @@ The content of this project is licensed under the [LICENSE](LICENSE).
 
 ---
 
-<div align="center">
-
 ## 💬 Citation
 
 If this work is helpful, please cite as:
@@ -122,15 +88,11 @@ If this work is helpful, please cite as:
 }
 ```
 
-</div>
-
 ---
-
+## ⭐ Star History
 <div align="center">
 
-## ⭐ Star History
-
-![Star History Chart](https://api.star-history.com/svg?repos=Tongyi-CCAI/Complex-IF&type=Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Tongyi-CCAI/Complex-IF&type=Date)](https://www.star-history.com/#Tongyi-CCAI/Complex-IF&Date)
 
 </div>
 
