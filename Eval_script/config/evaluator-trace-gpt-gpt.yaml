@@ -1,0 +1,9 @@
+evaluator:
+  type: cifeval
+  evaluator_llm: !include models/evaluator_gpt4o.yaml
+  dataset: !include datasets/trace_dataset.yaml
+  out_dir: xxx/qwen2_iopo
+  model: !include models/vllm_qwen2_7b_trace_iopo.yaml
+  metric_type: metric_cifeval
+  infer_processes: 1
+  eval_processes: 2
