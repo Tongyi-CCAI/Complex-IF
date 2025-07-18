@@ -119,7 +119,7 @@ If this work is helpful, please cite as:
   />
   <img
     alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=Tongyi-CCAI/Complex-IF&type=Date"
+    src="https://api.star-history.com/svg?repos=Tongyi-CCAI/Complex-IF"
   />
 </picture>
 
