@@ -18,9 +18,11 @@
 - `2024.11.24` We release **TRACE&IOPO** at [DAMO-ConvAI](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/IOPO), a complex instruction following benchmark and offline RL algorithm for evaluating and training LLMs.
 
 ## 🔬 Comparison Results  
+
 <img src="figs/intro.png" width="500" alt="Comparison Chart">
 
 ## 📊 TRACE Benchmark
+
 - **Training Instructions**: 119,345
 - **Evaluation Instructions**: 1,042
 
@@ -33,12 +35,14 @@
 ## ⚙ How to Run
 
 ### ➡ Step 1: Install Dependencies
+
 ```bash
 cd TRACE&IOPO/IOPO/
 pip install -e ".[torch,metrics]"
 ```
 
 ### ➡ Step 2: Train the Model
+
 ```bash
 llamafactory-cli train examples/qwen2_lora_iopo.yaml
 ```
@@ -46,6 +50,7 @@ llamafactory-cli train examples/qwen2_lora_iopo.yaml
 ## 🧪 How to Evaluate
 
 ### ➡ Step 1: Launch `vllm` to Deploy the Trained Model
+
 ```bash
 python -m vllm.entrypoints.openai.api_server \
     --served-model-name qwen2_7b_trace_iopo \
@@ -54,6 +59,7 @@ python -m vllm.entrypoints.openai.api_server \
 ```
 
 ### ➡ Step 2: Run Evaluation Script
+
 ```bash
 cd TRACE&IOPO/Eval_script/
 bash evaluate_all_task_for_model.sh <eval_results_output_path> \
@@ -91,9 +97,11 @@ If this work is helpful, please cite as:
 ```
 
 ## ⭐ Star History
+
 <div align="center">
     
 [![Star History Chart](https://api.star-history.com/svg?repos=Tongyi-CCAI/Complex-IF&type=Date)](https://www.star-history.com/#Tongyi-CCAI/Complex-IF&Date)
 
 </div>
+
 ### 🎉 Thank you for your interest in **Complex IF**!  
