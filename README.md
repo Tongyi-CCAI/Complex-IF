@@ -104,4 +104,23 @@ If this work is helpful, please cite as:
 
 </div>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://api.star-history.com/svg?repos=Tongyi-CCAI/Complex-IF&type=Date&theme=dark
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://api.star-history.com/svg?repos=Tongyi-CCAI/Complex-IF&type=Date
+    "
+  />
+  <img
+    alt="Star History Chart"
+    src="https://api.star-history.com/svg?repos=Tongyi-CCAI/Complex-IF&type=Date"
+  />
+</picture>
+
 ### 🎉 Thank you for your interest in **Complex IF**!  
