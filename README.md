@@ -97,6 +97,15 @@ If this work is helpful, please cite as:
     address = "Vienna, Austria",
     publisher = "Association for Computational Linguistics"
 }
+@inproceedings{wang-etal-2025-demo,
+    title = "DEMO: Reframing Dialogue Interaction with Fine-grained Element Modeling",
+    author = "Minzheng Wang, Xinghua Zhang, Kun Chen, Nan Xu, Haiyang Yu, Fei Huang, Wenji Mao, Yongbin Li",
+    booktitle = "Findings of ACL 2025",
+    month = July,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics"
+}
 @misc{zou2025eifbenchextremelycomplexinstruction,
       title={EIFBENCH: Extremely Complex Instruction Following Benchmark for Large Language Models}, 
       author={Tao Zou and Xinghua Zhang and Haiyang Yu and Minzheng Wang and Fei Huang and Yongbin Li},
@@ -105,6 +114,15 @@ If this work is helpful, please cite as:
       archivePrefix={arXiv},
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2506.08375}, 
+}
+@misc{wang2025adaptivethinkingmodepolicy,
+      title={Adaptive Thinking via Mode Policy Optimization for Social Language Agents}, 
+      author={Minzheng Wang and Yongbin Li and Haobo Wang and Xinghua Zhang and Nan Xu and Bingli Wu and Fei Huang and Haiyang Yu and Wenji Mao},
+      year={2025},
+      eprint={2505.02156},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.02156}, 
 }
 ```
 
