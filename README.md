@@ -1,12 +1,12 @@
 <div align="center">
 
-# **Complex Instruction Following (IF) for Deep Analysis**  
+# **Complex Instruction Following (IF) & Reasoning for Deep Analysis**  
 
 ### Built by Tongyi Lab, Alibaba Group <img src="./figs/tongyi.png" width="25px" style="margin-top:10px;">
 
 </div>
 
-> In the realm of large language models (LLMs), the ability of models to accurately follow instructions is paramount as more agents and applications leverage LLMs, where the complexity of instructions is rapidly increasing.
+> In the realm of large language models (LLMs), the ability of models to accurately follow instructions and conduct reasoning is paramount as more agents and applications leverage LLMs, where the complexity of instructions is rapidly increasing.
 
 <div align="center">
 <p align="center">
