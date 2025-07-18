@@ -8,14 +8,26 @@
 
 > In the realm of large language models (LLMs), the ability of models to accurately follow instructions is paramount as more agents and applications leverage LLMs, where the complexity of instructions is rapidly increasing.
 
-- [**TRACE&IOPO**](TRACE&IOPO) (ACL 2025) - [IOPO: Empowering LLMs with Complex Instruction Following via Input-Output Preference Optimization](https://arxiv.org/pdf/2411.06208)
-- [**EIFBench&SegPO**](EIFBench&SegPO) (Preprint 2025) - [EIFBENCH: Extremely Complex Instruction Following Benchmark for Large Language Models](https://arxiv.org/pdf/2506.08375)
+<div align="center">
+<p align="center">
+  <img src="./figs/overview.png" width="100%"/>
+</p>
+</div>
+
+- [**TRACE**](TRACE) (-) - [IOPO: Empowering LLMs with Complex Instruction Following via Input-Output Preference Optimization](https://arxiv.org/pdf/2411.06208)
+- [**IOPO**](IOPO) (ACL 2025) - [IOPO: Empowering LLMs with Complex Instruction Following via Input-Output Preference Optimization](https://arxiv.org/pdf/2411.06208)
+- [**DEMO**](DEMO) (ACL 2025) - [DEMO: Reframing Dialogue Interaction with Fine-grained Element Modeling](https://arxiv.org/pdf/2412.04905)
+- [**EIFBench**](EIFBench) (Preprint 2025) - [EIFBENCH: Extremely Complex Instruction Following Benchmark for Large Language Models](https://arxiv.org/pdf/2506.08375)
+- [**SegPO**](SegPO) (Preprint 2025) - [EIFBENCH: Extremely Complex Instruction Following Benchmark for Large Language Models](https://arxiv.org/pdf/2506.08375)
+- [**AMPO**](AMPO) (Preprint 2025) - [Adaptive Thinking via Mode Policy Optimization for Social Language Agents](https://arxiv.org/pdf/2505.02156)
 
 ## 📜 News and Updates
 
-- `2025.06.10` We release **EIFBench&SegPO** at [Arxiv](https://arxiv.org/pdf/2506.08375), an extremely complex instruction following benchmark and online RL algorithm for evaluating and training LLMs.
-- `2025.05.16` **TRACE&IOPO** is accepted by ACL 2025 main conference.
-- `2024.11.24` We release **TRACE&IOPO** at [DAMO-ConvAI](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/IOPO), a complex instruction following benchmark and offline RL algorithm for evaluating and training LLMs.
+- `2025.06.10` We release **EIFBench**&**SegPO** at [Arxiv](https://arxiv.org/pdf/2506.08375), an extremely complex instruction following benchmark and online RL algorithm for evaluating and training LLMs.
+- `2025.05.22` We release **AMPO** at [Arxiv](https://arxiv.org/pdf/2505.02156), a online RL algorithm for adaptive reasoning.
+- `2025.05.16` **DEMO** is accepted by Findings of ACL 2025.
+- `2025.05.16` **TRACE**&**IOPO** is accepted by ACL 2025 main conference.
+- `2024.11.24` We release **TRACE**&**IOPO** at [DAMO-ConvAI](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/IOPO), a complex instruction following benchmark and offline RL algorithm for evaluating and training LLMs.
 
 ## 🔬 Comparison Results  
 
