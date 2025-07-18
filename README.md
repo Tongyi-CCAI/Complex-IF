@@ -91,10 +91,6 @@ If this work is helpful, please cite as:
 ```
 
 ## ⭐ Star History
-<div align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Tongyi-CCAI/Complex-IF&type=Date)](https://www.star-history.com/#Tongyi-CCAI/Complex-IF&Date)
-
-</div>
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://www.star-history.com/embed?secret=Z2hwX2hRZ1hyS3hSTG5OVWpPUWl0ZVo4RGZpSWpaQncyUTFqcWkwOA==#Tongyi-CCAI/Complex-IF&Date" frameBorder="0"></iframe>
 
 ### 🎉 Thank you for your interest in **Complex IF**!  
