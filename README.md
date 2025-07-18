@@ -98,12 +98,6 @@ If this work is helpful, please cite as:
 
 ## ⭐ Star History
 
-<div align="center">
-    
-[![Star History Chart](https://api.star-history.com/svg?repos=Tongyi-CCAI/Complex-IF&type=Date)](https://www.star-history.com/#Tongyi-CCAI/Complex-IF&Date)
-
-</div>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
