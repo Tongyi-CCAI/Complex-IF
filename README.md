@@ -17,12 +17,13 @@
 - [**TRACE**](TRACE) (-) - [IOPO: Empowering LLMs with Complex Instruction Following via Input-Output Preference Optimization](https://arxiv.org/pdf/2411.06208)
 - [**IOPO**](IOPO) (ACL 2025) - [IOPO: Empowering LLMs with Complex Instruction Following via Input-Output Preference Optimization](https://arxiv.org/pdf/2411.06208)
 - [**DEMO**](DEMO) (ACL 2025) - [DEMO: Reframing Dialogue Interaction with Fine-grained Element Modeling](https://arxiv.org/pdf/2412.04905)
-- [**EIFBench**](EIFBench) (Preprint 2025) - [EIFBENCH: Extremely Complex Instruction Following Benchmark for Large Language Models](https://arxiv.org/pdf/2506.08375)
-- [**SegPO**](SegPO) (Preprint 2025) - [EIFBENCH: Extremely Complex Instruction Following Benchmark for Large Language Models](https://arxiv.org/pdf/2506.08375)
+- [**EIFBench**](EIFBench) (EMNLP 2025) - [EIFBENCH: Extremely Complex Instruction Following Benchmark for Large Language Models](https://arxiv.org/pdf/2506.08375)
+- [**SegPO**](SegPO) (EMNLP 2025) - [EIFBENCH: Extremely Complex Instruction Following Benchmark for Large Language Models](https://arxiv.org/pdf/2506.08375)
 - [**AMPO**](AMPO) (Preprint 2025) - [Adaptive Thinking via Mode Policy Optimization for Social Language Agents](https://arxiv.org/pdf/2505.02156)
 
 ## 📜 News and Updates
 
+- `2025.08.21` **EIFBench**&**SegPO** is accepted by EMNLP 2025 main conference. Code&Data is coming soon...
 - `2025.06.10` We release **EIFBench**&**SegPO** at [Arxiv](https://arxiv.org/pdf/2506.08375), an extremely complex instruction following benchmark and online RL algorithm for evaluating and training LLMs.
 - `2025.05.22` We release **AMPO** at [Arxiv](https://arxiv.org/pdf/2505.02156), a online RL algorithm for adaptive reasoning.
 - `2025.05.16` **DEMO** is accepted by Findings of ACL 2025.
@@ -110,10 +111,7 @@ If this work is helpful, please cite as:
       title={EIFBENCH: Extremely Complex Instruction Following Benchmark for Large Language Models}, 
       author={Tao Zou and Xinghua Zhang and Haiyang Yu and Minzheng Wang and Fei Huang and Yongbin Li},
       year={2025},
-      eprint={2506.08375},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2506.08375}, 
+      booktitle = "EMNLP 2025"
 }
 @misc{wang2025adaptivethinkingmodepolicy,
       title={Adaptive Thinking via Mode Policy Optimization for Social Language Agents}, 
