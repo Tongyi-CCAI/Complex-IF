@@ -18,7 +18,7 @@
 - [**IOPO**](IOPO) (ACL 2025) - [IOPO: Empowering LLMs with Complex Instruction Following via Input-Output Preference Optimization](https://arxiv.org/pdf/2411.06208)
 - [**DEMO**](DEMO) (ACL 2025) - [DEMO: Reframing Dialogue Interaction with Fine-grained Element Modeling](https://arxiv.org/pdf/2412.04905)
 - [**EIFBench**](EIFBench) (EMNLP 2025) - [EIFBENCH: Extremely Complex Instruction Following Benchmark for Large Language Models](https://arxiv.org/pdf/2506.08375)
-- [**SegPO**](SegPO) (EMNLP 2025) - [EIFBENCH: Extremely Complex Instruction Following Benchmark for Large Language Models](https://arxiv.org/pdf/2506.08375)
+- [**SegPO**](SegPO) (-) - [EIFBENCH: Extremely Complex Instruction Following Benchmark for Large Language Models](https://arxiv.org/pdf/2506.08375)
 - [**AMPO**](AMPO) (Preprint 2025) - [Adaptive Thinking via Mode Policy Optimization for Social Language Agents](https://arxiv.org/pdf/2505.02156)
 
 ## 📜 News and Updates
