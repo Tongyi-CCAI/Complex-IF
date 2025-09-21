@@ -88,7 +88,7 @@ If this work is helpful, please cite as:
     address = "Vienna, Austria",
     publisher = "Association for Computational Linguistics"
 }
-@misc{zou2025eifbenchextremelycomplexinstruction,
+@inproceedings{zou2025eifbenchextremelycomplexinstruction,
       title={EIFBENCH: Extremely Complex Instruction Following Benchmark for Large Language Models}, 
       author={Tao Zou and Xinghua Zhang and Haiyang Yu and Minzheng Wang and Fei Huang and Yongbin Li},
       year={2025},
