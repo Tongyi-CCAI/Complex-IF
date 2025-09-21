@@ -50,11 +50,11 @@
 
 ### 5. SegPO  
 
-<img src="figs/segpo.png" width="750" alt="SegPO Chart">
+<img src="figs/segpo.png" width="600" alt="SegPO Chart">
 
 ### 6. AMPO  
 
-<img src="figs/ampo.png" width="750" alt="AMPO Chart">
+<img src="figs/ampo.png" width="600" alt="AMPO Chart">
 
 
 ## ⚙ How to Run
