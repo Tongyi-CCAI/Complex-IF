@@ -34,27 +34,27 @@
 
 ### TRACE Benchmark  
 
-<img src="figs/trace.png" width="500" alt="TRACE Chart">
+<img src="figs/trace.png" width="900" alt="TRACE Chart">
 
 ### IOPO  
 
-<img src="figs/iopo.png" width="500" alt="IOPO Chart">
+<img src="figs/iopo.png" width="900" alt="IOPO Chart">
 
 ### DEMO Benchmark  
 
-<img src="figs/demo.png" width="500" alt="DEMO Chart">
+<img src="figs/demo.png" width="900" alt="DEMO Chart">
 
 ### EIFBench Benchmark  
 
-<img src="figs/eifbench.png" width="500" alt="EIFBench Chart">
+<img src="figs/eifbench.png" width="900" alt="EIFBench Chart">
 
 ### SegPO  
 
-<img src="figs/segpo.png" width="500" alt="SegPO Chart">
+<img src="figs/segpo.png" width="900" alt="SegPO Chart">
 
 ### AMPO  
 
-<img src="figs/ampo.png" width="500" alt="AMPO Chart">
+<img src="figs/ampo.png" width="900" alt="AMPO Chart">
 
 
 ## ⚙ How to Run
