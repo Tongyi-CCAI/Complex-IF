@@ -2,7 +2,7 @@
 
 ## **Complex Instruction Following (IF) & Reasoning for Deep Analysis**  
 
-### Built by Tongyi Lab, Alibaba Group <img src="./figs/tongyi.png" width="25px" style="margin-top:10px;">
+### Built by Tongyi Lab, Alibaba Group <img src="../figs/tongyi.png" width="25px" style="margin-top:10px;">
 
 </div>
 
