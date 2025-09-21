@@ -32,27 +32,27 @@
 
 ## 🔬 Details
 
-### TRACE Benchmark  
+### 1. TRACE Benchmark  
 
 <img src="figs/trace.png" width="900" alt="TRACE Chart">
 
-### IOPO  
+### 2. IOPO  
 
 <img src="figs/iopo.png" width="900" alt="IOPO Chart">
 
-### DEMO Benchmark  
+### 3. DEMO Benchmark  
 
 <img src="figs/demo.png" width="900" alt="DEMO Chart">
 
-### EIFBench Benchmark  
+### 4. EIFBench Benchmark  
 
 <img src="figs/eifbench.png" width="900" alt="EIFBench Chart">
 
-### SegPO  
+### 5. SegPO  
 
 <img src="figs/segpo.png" width="900" alt="SegPO Chart">
 
-### AMPO  
+### 6. AMPO  
 
 <img src="figs/ampo.png" width="900" alt="AMPO Chart">
 
