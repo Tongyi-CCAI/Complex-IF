@@ -34,11 +34,11 @@
 
 ### 1. TRACE Benchmark  
 
-<img src="figs/trace.png" width="900" alt="TRACE Chart">
+<img src="figs/trace.png" width="700" alt="TRACE Chart">
 
 ### 2. IOPO  
 
-<img src="figs/iopo.png" width="900" alt="IOPO Chart">
+<img src="figs/iopo.png" width="750" alt="IOPO Chart">
 
 ### 3. DEMO Benchmark  
 
@@ -50,11 +50,11 @@
 
 ### 5. SegPO  
 
-<img src="figs/segpo.png" width="900" alt="SegPO Chart">
+<img src="figs/segpo.png" width="750" alt="SegPO Chart">
 
 ### 6. AMPO  
 
-<img src="figs/ampo.png" width="900" alt="AMPO Chart">
+<img src="figs/ampo.png" width="750" alt="AMPO Chart">
 
 
 ## ⚙ How to Run
