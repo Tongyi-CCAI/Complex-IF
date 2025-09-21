@@ -1,0 +1,6 @@
+type: "alibaba-remote-llm"
+args:
+  name: "gpt-4o"
+run_args:
+  temperature: 0.0
+  top_p: 0.8

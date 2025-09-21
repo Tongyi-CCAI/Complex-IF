@@ -1,4 +1,0 @@
-type: "qwen_format_dataset"
-args:
-  local_or_oss: 'local'
-  url: "xxx/trace_test.jsonl"

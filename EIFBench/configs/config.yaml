@@ -1,0 +1,10 @@
+type: "OpenAI"
+process_num: 1
+port: 8000
+args:
+  api_name: ''
+  api_key: '' 
+  api_url: ''
+run_args:
+  temperature: 0.0
+  n: 10

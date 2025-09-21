@@ -30,55 +30,36 @@
 - `2025.05.16` **TRACE**&**IOPO** is accepted by ACL 2025 main conference.
 - `2024.11.24` We release **TRACE**&**IOPO** at [DAMO-ConvAI](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/IOPO), a complex instruction following benchmark and offline RL algorithm for evaluating and training LLMs.
 
-## 🔬 Comparison Results  
+## 🔬 Details
 
-<img src="figs/intro.png" width="500" alt="Comparison Chart">
+### TRACE Benchmark  
 
-## 📊 TRACE Benchmark
+<img src="figs/trace.png" width="500" alt="TRACE Chart">
 
-- **Training Instructions**: 119,345
-- **Evaluation Instructions**: 1,042
+### IOPO  
 
-**Constraints per Instruction:**  
-- Minimum: **1**, Maximum: **15**  
-- Average: **4.36** (training), **4.89** (evaluation)  
+<img src="figs/iopo.png" width="500" alt="IOPO Chart">
 
-<img src="figs/trace_test_constraint_type.png" width="300" alt="TRACE Benchmark Statistics">
+### DEMO Benchmark  
+
+<img src="figs/demo.png" width="500" alt="DEMO Chart">
+
+### EIFBench Benchmark  
+
+<img src="figs/eifbench.png" width="500" alt="EIFBench Chart">
+
+### SegPO  
+
+<img src="figs/segpo.png" width="500" alt="SegPO Chart">
+
+### AMPO  
+
+<img src="figs/ampo.png" width="500" alt="AMPO Chart">
+
 
 ## ⚙ How to Run
 
-### ➡ Step 1: Install Dependencies
-
-```bash
-cd TRACE&IOPO/IOPO/
-pip install -e ".[torch,metrics]"
-```
-
-### ➡ Step 2: Train the Model
-
-```bash
-llamafactory-cli train examples/qwen2_lora_iopo.yaml
-```
-
-## 🧪 How to Evaluate
-
-### ➡ Step 1: Launch `vllm` to Deploy the Trained Model
-
-```bash
-python -m vllm.entrypoints.openai.api_server \
-    --served-model-name qwen2_7b_trace_iopo \
-    --model <trained_model_saved_path> \
-    --tensor-parallel-size 4
-```
-
-### ➡ Step 2: Run Evaluation Script
-
-```bash
-cd TRACE&IOPO/Eval_script/
-bash evaluate_all_task_for_model.sh <eval_results_output_path> \
-    "models/vllm_qwen2_7b_trace_iopo.yaml" \
-    "config/evaluator-trace-gpt-gpt.yaml"
-```
+The details can be found in the corresponding folders.
 
 ## 📄 License
 
