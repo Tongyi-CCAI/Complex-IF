@@ -23,7 +23,7 @@
 
 ## 📜 News and Updates
 
-- `2025.08.21` **EIFBench**&**SegPO** is accepted by EMNLP 2025 main conference. Code&Data is coming soon...
+- `2025.08.21` **EIFBench**&**SegPO** is accepted by EMNLP 2025 main conference.
 - `2025.06.10` We release **EIFBench**&**SegPO** at [Arxiv](https://arxiv.org/pdf/2506.08375), an extremely complex instruction following benchmark and online RL algorithm for evaluating and training LLMs.
 - `2025.05.22` We release **AMPO** at [Arxiv](https://arxiv.org/pdf/2505.02156), a online RL algorithm for adaptive reasoning.
 - `2025.05.16` **DEMO** is accepted by Findings of ACL 2025.
