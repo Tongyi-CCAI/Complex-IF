@@ -19,10 +19,11 @@
 - [**DEMO**](DEMO) (ACL 2025) - [DEMO: Reframing Dialogue Interaction with Fine-grained Element Modeling](https://arxiv.org/pdf/2412.04905)
 - [**EIFBench**](EIFBench) (EMNLP 2025) - [EIFBENCH: Extremely Complex Instruction Following Benchmark for Large Language Models](https://arxiv.org/pdf/2506.08375)
 - [**SegPO**](SegPO) (-) - [EIFBENCH: Extremely Complex Instruction Following Benchmark for Large Language Models](https://arxiv.org/pdf/2506.08375)
-- [**AMPO**](AMPO) (Preprint 2025) - [Adaptive Thinking via Mode Policy Optimization for Social Language Agents](https://arxiv.org/pdf/2505.02156)
+- [**AMPO**](AMPO) (ICLR 2026) - [Adaptive Social Learning via Mode Policy Optimization for Language Agents](https://arxiv.org/pdf/2505.02156)
 
 ## 📜 News and Updates
 
+- `2026.01.26` **AMPO** is accepted by ICLR 2026.
 - `2025.08.21` **EIFBench**&**SegPO** is accepted by EMNLP 2025 main conference.
 - `2025.06.10` We release **EIFBench**&**SegPO** at [Arxiv](https://arxiv.org/pdf/2506.08375), an extremely complex instruction following benchmark and online RL algorithm for evaluating and training LLMs.
 - `2025.05.22` We release **AMPO** at [Arxiv](https://arxiv.org/pdf/2505.02156), an online RL algorithm for adaptive reasoning.
@@ -94,14 +95,11 @@ If this work is helpful, please cite as:
       year={2025},
       booktitle = "EMNLP 2025"
 }
-@misc{wang2025adaptivethinkingmodepolicy,
-      title={Adaptive Thinking via Mode Policy Optimization for Social Language Agents}, 
+@inproceedings{wang2026adaptivethinkingmodepolicy,
+      title={Adaptive Social Learning via Mode Policy Optimization for Language Agents}, 
       author={Minzheng Wang and Yongbin Li and Haobo Wang and Xinghua Zhang and Nan Xu and Bingli Wu and Fei Huang and Haiyang Yu and Wenji Mao},
-      year={2025},
-      eprint={2505.02156},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2505.02156}, 
+      year={2026},
+      booktitle = "ICLR 2026"
 }
 ```
 
